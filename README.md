@@ -2,19 +2,19 @@
 
 ## Frontend Developer & Graphic Designer
 
-### 🔨 Technologies & Tools
+### ✨ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
 
 <!-- react,next,vite, -->
 
-### 🔨🔧⛏⚒🛠⚙🗜🔪 Tools
+### 🛠 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,photoshop)](https://skillicons.dev)
 
 <!-- vscode,github,postman,figma,photoshop,unity -->
 
-#### Others
+### Others
 
 [![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,cs)](https://skillicons.dev)
 
