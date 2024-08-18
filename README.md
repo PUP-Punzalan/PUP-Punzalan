@@ -5,6 +5,8 @@
 - 🌏 Quezon City, Philippines
 - ⚒ Web & Graphic Design Freelancer
 - 🧠 Computer Engineering student at Polytechnic University of the Philippines
+- 📚 Currently learning: **ReactJS**
+- 📧 Reach out to me at **anrpunzalan@gmail.com**
 
 ---
 
@@ -35,6 +37,9 @@
 ## Socials
 
 <p align="left">
+  <a href="anrpunzalan@gmail.com" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-email-red?style=for-the-badge&logo=email&logoColor=white" />
+  </a>
   <a href="https://github.com/pup-punzalan" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-github-black?style=for-the-badge&logo=github" />
   </a>
