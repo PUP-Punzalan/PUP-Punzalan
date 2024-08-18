@@ -2,6 +2,10 @@
 
 ## Frontend Developer & Graphic Designer
 
+- 🌏 Quezon City, Philippines
+- ⚒ Web & Graphic Design Freelancer
+- 🧠 Computer Engineering student at Polytechnic University of the Philippines
+
 ### ✨ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
