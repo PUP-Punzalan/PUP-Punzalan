@@ -1,14 +1,14 @@
 # Hi 👋, I'm Amado Niño Rei Punzalan
 
-**`Frontend Developer`** **`Graphic Designer`**
+## Frontend Developer & Graphic Designer
 
----
-
-## ✨ Technologies & Tools
+### 🔨 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
 
 <!-- react,next,vite, -->
+
+### 🔨🔧⛏⚒🛠⚙🗜🔪 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,photoshop)](https://skillicons.dev)
 
