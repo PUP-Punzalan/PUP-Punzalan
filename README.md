@@ -8,8 +8,6 @@
 - 📚 Currently learning: **ReactJS**
 - 📧 Reach out to me at **anrpunzalan@gmail.com**
 
----
-
 ## Technologies & Tools
 
 ### ✨ Tech Stack
