@@ -1,17 +1,15 @@
 # Hi 👋, I'm Amado Niño Rei Punzalan
 
-`Frontend Developer and Graphic Designer`
+**`Frontend Developer`** **`Graphic Designer`**
 
 ---
 
 ### Socials
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" color="white" />
 </p>
-
-
-
 
 <!-- <p>
   <a href="https://www.linkedin.com/in/anrpunzalan/" target="_blank">
