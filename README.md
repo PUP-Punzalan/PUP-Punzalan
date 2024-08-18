@@ -12,7 +12,7 @@
 
 ### ✨ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,bootstrap,sass,html,css)](https://skillicons.dev)
 
 <!-- react,next,vite, -->
 
@@ -24,7 +24,7 @@
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,cs,wordpress,unity)](https://skillicons.dev)
 
 <!-- mysql,python,php,cs -->
 
