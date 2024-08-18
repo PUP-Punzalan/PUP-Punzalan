@@ -35,13 +35,13 @@
 ## Socials
 
 <p align="left">
-  <a href="anrpunzalan@gmail.com" target="_blank">
+  <a href="mailto:anrpunzalan@gmail.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-email-red?style=for-the-badge&logo=email&logoColor=white" />
   </a>
   <a href="https://github.com/pup-punzalan" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-github-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/anrpunzalan" target="_blank">
+  <a href="https://www.linkedin.com/in/anrpunzalan/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
