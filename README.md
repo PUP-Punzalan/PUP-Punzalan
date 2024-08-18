@@ -2,7 +2,9 @@
 
 **`Frontend Developer`** **`Graphic Designer`**
 
-## Technologies & Tools
+---
+
+## ✨ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
 
