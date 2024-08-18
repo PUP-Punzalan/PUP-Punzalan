@@ -3,36 +3,23 @@
 **`Frontend Developer`** **`Graphic Designer`**
 
 ### Technologies
-<p align="left">
-<!-- React -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<!-- Vite -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<!-- Javascript -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<!-- SASS -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<!-- NodeJS -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<!-- Express -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<!-- Axios -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-<!-- PostgeSQL -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<!-- HTML -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<!-- CSS -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-          
-          
-          
-          
-          
-          
-          
-          
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,sass,html,css)](https://skillicons.dev)
+
+<!-- react,next,vite, -->
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,photoshop)](https://skillicons.dev)
+
+<!-- vscode,github,postman,figma,photoshop,unity -->
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,cs)](https://skillicons.dev)
+
+<!-- mysql,python,php,cs -->
+
 </p>
 
 <!-- ### Socials
