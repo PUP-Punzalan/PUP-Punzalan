@@ -18,7 +18,7 @@
 
 ### 🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,postman,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
 
 <!-- vscode,github,postman,figma,photoshop,unity -->
 
