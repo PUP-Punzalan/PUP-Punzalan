@@ -24,7 +24,7 @@
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,cs,wordpress,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,wordpress,unity)](https://skillicons.dev)
 
 <!-- mysql,python,php,cs -->
 
