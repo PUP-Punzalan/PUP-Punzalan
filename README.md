@@ -5,7 +5,7 @@
 - 🌏 Quezon City, Philippines
 - ⚒ Web & Graphic Design Freelancer
 - 🧠 Computer Engineering student at Polytechnic University of the Philippines
-- 📚 Currently learning: **ReactJS and API Integration**
+- 📚 Currently learning: **TypeScript**
 - 📧 Reach out to me at **anrpunzalan@gmail.com**
 
 ## Technologies & Tools
