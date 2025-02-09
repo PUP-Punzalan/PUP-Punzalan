@@ -12,19 +12,19 @@
 
 ### ✨ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,express,tailwind,bootstrap,sass,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,js,nodejs,tailwind,bootstrap,sass,html,css)](https://skillicons.dev)
 
 <!-- react,next,vite, -->
 
 ### 🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,postman,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
 
 <!-- vscode,github,postman,figma,photoshop,unity -->
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,python,php,wordpress,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,python,wordpress,unity)](https://skillicons.dev)
 
 <!-- mysql,python,php,cs -->
 
